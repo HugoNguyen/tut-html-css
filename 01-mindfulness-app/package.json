@@ -1,0 +1,15 @@
+{
+  "name": "01-mindfulness-app",
+  "version": "1.0.0",
+  "description": "Inspired by: \r https://dribbble.com/shots/10423413-Mindfulness-App-Concept/attachments/2265280?mode=media",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "less": "^4.1.1",
+    "node-sass": "^6.0.0"
+  }
+}
